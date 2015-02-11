@@ -6,3 +6,5 @@ I'm not the author, but code is licensed under
 [LGPL v3.0](http://www.gnu.org/copyleft/lesser.html),  so use and modification 
 in basically any application is supported/allowed with no further support or any 
 sort of warranty attached.<br>
+Package is renamed from original org.nevec.rjm to io.github.miraclefoxx.math 
+to preserve the possibility of improving the library.
