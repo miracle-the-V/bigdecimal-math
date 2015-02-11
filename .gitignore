@@ -1,0 +1,12 @@
+*.iml
+
+## Directory-based project format:
+#.idea/
+
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+
+#Else
+target
